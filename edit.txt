@@ -1,0 +1,5 @@
+token=(디코봇 토큰)
+webhookurl=(웹훅 주소)
+weathertoken=(owm 토큰)
+kbotstoken=(koreanbots 토큰)
+covidtoken=(https://api.corona-19.kr/ 토큰)

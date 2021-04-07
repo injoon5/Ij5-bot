@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "ij5-bot"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+#discord = "^1.0.1"
+"discord.py" = "1.6.0"
+flask = "^1.1.2"
+pyowm = "^3.1.1"
+bs4 = "^0.0.1"
+replit = "^2.0.0"
+tinydb = "^4.3.0"
+EZPaginator = "1.3.4"
+jishaku = "^1.20.0"
+meval = "^2.5"
+
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
